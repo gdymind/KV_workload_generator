@@ -3,6 +3,8 @@
 Code snippet for generating different workload
 
 ## Implemented
+- Zipfian
 
 ## TODO
-- Zipfian
+- Random
+- Sequential
